@@ -1,0 +1,27 @@
+.contact input{
+    padding: 10px;
+    border: 1px solid gray;
+}
+
+.contact textarea{
+    padding: 10px;
+    border: 1px solid gray;
+}
+
+.contact p{
+    padding: 15px;
+}
+
+form .formdiv{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-top:30px;
+}
+
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
